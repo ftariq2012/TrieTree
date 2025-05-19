@@ -1,0 +1,22 @@
+{
+    "name": "Auto-Correct Simple Test",
+    "prefix": "deg",
+    "seed": "DooDooButtCheeks",
+    "amount": 50,
+    "N": 2,
+    "time": 5,
+    "insert": [
+        "dog",
+        "dig",
+        "duck",
+        "dug",
+        "lukasz",
+        "dang",
+        "aero"
+    ],
+    "expectedSuggestions": [
+        "dig", 
+        "dog", 
+        "dug"
+    ]
+}
